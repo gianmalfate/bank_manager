@@ -13,7 +13,7 @@ Este é um sistema bancário desenvolvido durante o curso **"JavaScript - POO, H
 
 - **Gerenciamento de Usuários**:
   - Sistema de autenticação para **Clientes**, **Gerentes** e **Diretores**.
-  - Suporte para login utilizando o conceito de "duck typing".
+  - Suporte para login utilizando o conceito de ["duck typing"](https://medium.com/@eamonocallaghan/what-is-duck-typing-in-javascript-f3eb10853361).
 
 - **Operações Bancárias**:
   - Depósitos, saques e transferências.
@@ -69,7 +69,7 @@ Este é um sistema bancário desenvolvido durante o curso **"JavaScript - POO, H
 ### 2. Sistema de Autenticação
 
 -   **`SistemaAutenticacao`**:
-    -   Utiliza o conceito de "duck typing" para autenticar qualquer objeto que possua o método `autenticar`.
+    -   Utiliza o conceito de ["duck typing"](https://medium.com/@eamonocallaghan/what-is-duck-typing-in-javascript-f3eb10853361) para autenticar qualquer objeto que possua o método `autenticar`.
     
 ## 🧑‍💻 Contato
 
